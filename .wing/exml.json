@@ -1,0 +1,27 @@
+{
+  "170bd3c2d35": {
+    "path": "bg.ts",
+    "class": "bg",
+    "parentPath": ""
+  },
+  "170bd6a6f67": {
+    "guideLines": [
+      {
+        "type": "v",
+        "pos": 138
+      }
+    ]
+  },
+  "170bd6a6f68": {
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": false
+  }
+}

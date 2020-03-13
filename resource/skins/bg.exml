@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="bg" width="750" height="1624" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="170bd6a6f68"/>
+	<e:Image source="bg_png" anchorOffsetY="0" left="0" right="0" top="0" bottom="0" fillMode="clip"/>
+	<e:Image source="title_png" y="0" x="10" anchorOffsetX="0" width="729"/>
+	<e:Image source="circle_bg_png" y="558" anchorOffsetY="0" left="0" right="0" height="644"/>
+	<e:Image source="barrage_bg_png" y="424" horizontalCenter="0"/>
+	<e:Image source="circle_outside_png" y="542" fillMode="scale" anchorOffsetX="0" width="662" anchorOffsetY="0" height="662" horizontalCenter="0"/>
+	<e:Image source="circle_light_png" y="567" width="610" height="610" horizontalCenter="0"/>
+	<e:Image source="barrage_0_png" y="436" horizontalCenter="0.5"/>
+	<e:Image source="circle_inside_png" y="603.5" width="535" height="535" horizontalCenter="0.5"/>
+	<e:Image source="btn_start_png" y="789" horizontalCenter="0"/>
+	<e:Image source="pointer_png" x="332" y="828"/>
+</e:Skin>
